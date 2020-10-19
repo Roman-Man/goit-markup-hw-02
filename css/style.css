@@ -203,7 +203,7 @@ body {
   color: var(--primary-text-color);
 }
 
-.gallery-list .title {
+.gallery-list, .title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -212,7 +212,7 @@ body {
   color: var(--title-text-color);
 }
 
-.gallery-list .category {
+.gallery-list, .category {
   font-size: 16px;
   line-height: 1.87;
 }
